@@ -1,0 +1,4 @@
+selene
+pytest
+allure-pytest
+selenium
